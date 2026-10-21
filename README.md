@@ -1,4 +1,4 @@
-# DS500: Books to Scrape Analysis
+# Data-Science-500-Book-Analytics
 ## GitHub Link:
 project link:https://github.com/pitjadiprecious-ops/Data-Science-500-Book-Analytics.git
 
