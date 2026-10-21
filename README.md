@@ -22,4 +22,3 @@ Python | Pandas | Matplotlib | Scikit-Learn
 - Open analysis.ipynb for graphs and ML model
 
 Dataset: books.toscrape.com
-Author: Bontle - DS500
